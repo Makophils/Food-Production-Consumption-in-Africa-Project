@@ -1,9 +1,9 @@
 ## Food Production & Consumption Project in Africa(2004-2013)
-The goal of this project was to analyze Food production and supply in African countries between 2004 to 2013
+The goal of this project was to analyze Food production and supply in African countries between 2004 to 2013.
 ## Gathering the data
-The Food production dataset was downloaded [here](https://www.wolframcloud.com/obj/mar/Hamoye/Session%202/Data/Africa%20Food%20Production%20(2004%20-%202013).csv) while the Food supply dataset was downloaded [here](https://www.wolframcloud.com/obj/mar/Hamoye/Session%202/Data/Africa%20Food%20Supply%20(2004%20-%202013).csv).The datasets were then read into Jupiter Notebook were the analysis was done
+The Food production dataset was downloaded [here](https://www.wolframcloud.com/obj/mar/Hamoye/Session%202/Data/Africa%20Food%20Production%20(2004%20-%202013).csv) while the Food supply dataset was downloaded [here](https://www.wolframcloud.com/obj/mar/Hamoye/Session%202/Data/Africa%20Food%20Supply%20(2004%20-%202013).csv).The datasets were then read into Jupiter Notebook were the analysis was done.
 ## Summary of Findings  
-The following insights were uncovered after the analysis:
+The Following insights were uncovered after the analysis:
 
 •	The Top 5 African countries with the highest food production include Nigeria,Egypt, South Africa,Ethiopia and Tanzania.
 
