@@ -11,6 +11,7 @@ The Following insights were uncovered after the analysis:
 
 •	There was a significant increase in Food production between 2004 to 2006,after which there was a decline in 2007.A steady increase was seen between 2008 till 2012.
 
-•	Countries with the highest food supply in Africa include Egypt,Tunisia and Moroco while countries with the least supply is Zambia,Ethiopia and Chad.Note that while countries like Nigeria & South Africa were amongst the top 3 food producing Nations,they were not amongst the top 3 Africa countries with the highest food supply.
+•	Countries with the highest food supply in Africa include Egypt,Tunisia and Moroco while countries with the least supply is Zambia,Ethiopia and Chad. Note that while countries like 
+  Nigeria & South Africa were amongst the top 3 food producing Nations,they were not amongst the top 3 Africa countries with the highest food supply.
 
-•While there was an overall increase in food production and supply over the years,food supply can be seen to be well below food production.
+• While there was an overall increase in food production and supply over the years,food supply can be seen to be well below food production.
